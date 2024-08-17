@@ -1,0 +1,81 @@
+commit fc6c4aabae2980b6eba031f8692f02fb789e210d (HEAD -> master)
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Tue Aug 13 10:17:10 2024 +0200
+
+    Updated files
+
+commit 25854376b908ac16d08c1bef5d1b0e3a99c583d1 (HEAD -> master)
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Mon Aug 12 13:48:55 2024 +0200
+
+    New CSV Files
+
+commit b0d9e82419759ce9a7b131d6e027801b4072ad74
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sun Aug 11 22:41:11 2024 +0200
+
+    Updated CSV Files for Serial files
+
+commit f69260e28f5ed8b64ae398c94cd08d7712e775f3
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sun Aug 11 22:40:22 2024 +0200
+
+    The updated files for Parallel Program
+
+commit d09e1cb256e45965e347a8786aed69657c4b99c6
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sat Aug 10 13:48:24 2024 +0200
+
+    Updated Files
+:
+commit 25854376b908ac16d08c1bef5d1b0e3a99c583d1 (HEAD -> master)
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Mon Aug 12 13:48:55 2024 +0200
+
+    New CSV Files
+
+commit b0d9e82419759ce9a7b131d6e027801b4072ad74
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sun Aug 11 22:41:11 2024 +0200
+
+    Updated CSV Files for Serial files
+
+commit f69260e28f5ed8b64ae398c94cd08d7712e775f3
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sun Aug 11 22:40:22 2024 +0200
+
+    The updated files for Parallel Program
+
+commit d09e1cb256e45965e347a8786aed69657c4b99c6
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sat Aug 10 13:48:24 2024 +0200
+:...skipping...
+commit 25854376b908ac16d08c1bef5d1b0e3a99c583d1 (HEAD -> master)
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Mon Aug 12 13:48:55 2024 +0200
+
+    New CSV Files
+
+commit b0d9e82419759ce9a7b131d6e027801b4072ad74
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sun Aug 11 22:41:11 2024 +0200
+
+    Updated CSV Files for Serial files
+
+commit f69260e28f5ed8b64ae398c94cd08d7712e775f3
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sun Aug 11 22:40:22 2024 +0200
+
+    The updated files for Parallel Program
+
+commit d09e1cb256e45965e347a8786aed69657c4b99c6
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Sat Aug 10 13:48:24 2024 +0200
+
+    Updated Files
+
+commit a406a2fb70aa2324c8c78ffcd3f5dc33d74cf68f
+Author: Lalelani Eddie Nene <lalelaninene@gmail.com>
+Date:   Thu Aug 8 07:11:38 2024 +0200
+
+    Adding new CSV files

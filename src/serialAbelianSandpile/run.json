@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AutomatonSimulation",
+            "request": "launch",
+            "mainClass": "serialAbelianSandpile.AutomatonSimulation",
+            "projectName": "your-project-name",
+            "args": "input/65_by_65_all_4.csv output/65_by_65_all_4.png"
+        }
+    ]
+}
